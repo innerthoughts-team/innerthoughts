@@ -1,0 +1,8 @@
+{
+  "devDependencies": {
+    "vuepress": "^0.10.0"
+  },
+  "scripts": {
+    "innerthoughts:build": "vuepress build innerthoughts"
+  }
+}
