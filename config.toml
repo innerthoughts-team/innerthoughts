@@ -1,0 +1,4 @@
+baseURL = "https://innerthoughts.me/"
+languageCode = "zh-cn"
+title = "洞见 - innerthoughts"
+theme = "paper"
